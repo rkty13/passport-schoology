@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/rkty13/passport-schoology/issues"
   },
-  "homepage": "https://github.com/rkty13/passport-schoology#readme"
+  "homepage": "https://github.com/rkty13/passport-schoology#readme",
+  "dependencies": {
+    "passport-oauth1": "^1.1.0"
+  }
 }
