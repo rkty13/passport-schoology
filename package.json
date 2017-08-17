@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/rkty13/passport-schoology#readme",
   "dependencies": {
-    "passport-oauth1": "git+https://github.com/rkty13/passport-oauth1.git"
+    "passport-oauth1": "^1.1.0"
   }
 }
